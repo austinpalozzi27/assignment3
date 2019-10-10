@@ -1,0 +1,57 @@
+h1 {
+    color: dodgerblue;
+}
+
+.red-span {
+    color: red;
+}
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+
+    padding: 10px 10px 10px 10px;
+    border: 5px solid;
+}
+
+.diff-font {
+    font-family: fantasy;
+}
+
+header nav a {
+    color: cornflowerblue;
+}
+
+body {
+    color: darkcyan
+}
+
+
+.p {
+    font-size: 20px
+}
+
+.ul {
+    font-size: 25px
+}
+
+.ol {
+    font-size: 25px
+}
+
+ul li {
+    text-decoration: underline
+}
+
+ol li {
+    text-decoration: underline
+}
+
+ul li {
+    text-decoration-color: aqua
+}
+
+ol li {
+    text-decoration-color: aqua
+}
