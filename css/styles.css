@@ -72,3 +72,8 @@ ol li {
     justify-content: space-around;
     align-items: center;
 }
+
+header nav {
+    display: flex;
+    justify-content: center;
+}
