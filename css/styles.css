@@ -77,3 +77,24 @@ header nav {
     display: flex;
     justify-content: center;
 }
+
+@media screen and (max-width:40rem) {
+
+    .container,
+    header,
+    main,
+    footer,
+    .breedcontainer
+    {
+        flex-direction: column;
+    }
+}
+
+header nav {
+    flex: 1;
+}
+
+
+.breedcontainer {
+    display: flex;
+}
